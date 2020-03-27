@@ -3,11 +3,11 @@
   <title>郭菜鸟的家</title>
   
   
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/sakurablog/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/guocainiao/blog.git/"/>
+  <link href="https://gitee.com/guocainiao/sakurablog.git/"/>
   <updated>2020-03-25T13:12:23.192Z</updated>
-  <id>https://gitee.com/guocainiao/blog.git/</id>
+  <id>https://gitee.com/guocainiao/sakurablog.git/</id>
   
   <author>
     <name>guojun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo-Theme-Sakura</title>
-    <link href="https://gitee.com/guocainiao/blog.git/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>https://gitee.com/guocainiao/blog.git/2018/12/12/Hexo-Theme-Sakura/</id>
+    <link href="https://gitee.com/guocainiao/sakurablog.git/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>https://gitee.com/guocainiao/sakurablog.git/2018/12/12/Hexo-Theme-Sakura/</id>
     <published>2018-12-12T14:16:01.000Z</published>
     <updated>2020-03-25T13:12:23.192Z</updated>
     
@@ -29,12 +29,12 @@
     
     </summary>
     
-      <category term="技术" scheme="https://gitee.com/guocainiao/blog.git/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://gitee.com/guocainiao/sakurablog.git/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="web" scheme="https://gitee.com/guocainiao/blog.git/tags/web/"/>
+      <category term="web" scheme="https://gitee.com/guocainiao/sakurablog.git/tags/web/"/>
     
-      <category term="悦读" scheme="https://gitee.com/guocainiao/blog.git/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="悦读" scheme="https://gitee.com/guocainiao/sakurablog.git/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
